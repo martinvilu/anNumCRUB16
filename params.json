@@ -1,0 +1,6 @@
+{
+  "name": "Analisis Numerico CRUB",
+  "tagline": "Material para la catedra de Análisis Numérico del Profesorado y Licenciatura en Matemáticas de la Universidad de Comahue Regional Bariloche, Argentina",
+  "body": "# Calculo Numerico\r\n# Universidad del Comahue - Centro Regional Universitario Bariloche\r\n\r\n## Profesorado y Licenciatura en Matematicas\r\nhttp://crubweb.uncoma.edu.ar/\r\n\r\nDr. Rene Cejas Bolecek\r\nemail: reneczechdev@gmail.com\r\n\r\n\r\nModulos en python utilizados en la práctica de la materia\r\nCodigo del libro:\r\nNumerical Methods in Engineering with Python 3 3rd Edition (2013)\r\nby Jaan Kiusalaas\r\nPublisher: Cambridge University Press\r\nISBN-10: 1107033853\r\nISBN-13: 978-1107033856\r\n\r\nlicence: MIT. http://opensource.org/licenses/MIT ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
